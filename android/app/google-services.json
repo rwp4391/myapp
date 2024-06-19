@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "590880612183",
+    "project_id": "pizzabloc-e87ca",
+    "storage_bucket": "pizzabloc-e87ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590880612183:android:2ee0adbd41fdca7707e812",
+        "android_client_info": {
+          "package_name": "tech.steppay.pizzabloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu9RzDekD3UX_VjrmQS9EgGJL_0FIy-TI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
